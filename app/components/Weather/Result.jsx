@@ -2,7 +2,7 @@ var React = require('react');
 
 var Result = ({location, temp}) => {
 	return (
-		<label>It's {temp} in {location}.</label>
+		<h5 className="text-center">It's <strong>{temp}°C</strong> in {location}.</h5>
 	);
 }
 
