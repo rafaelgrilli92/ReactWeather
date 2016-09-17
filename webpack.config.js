@@ -24,6 +24,7 @@ module.exports = {
 		alias: {
 			Main: 'app/components/Layout/Main.jsx',
 			Nav: 'app/components/Layout/Nav.jsx',
+			ErrorModal: 'app/components/Shared/ErrorModal.jsx',
 			Weather: 'app/components/Weather/Weather.jsx',
 			About: 'app/components/About.jsx',
 			Examples: 'app/components/Examples.jsx',
